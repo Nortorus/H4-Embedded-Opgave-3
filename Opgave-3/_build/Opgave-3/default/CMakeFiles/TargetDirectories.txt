@@ -1,0 +1,4 @@
+C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/Opgave_3_default_default_XC8_compile.dir
+C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/Opgave_3_default_image_AF5eQby5.dir
+C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/edit_cache.dir
+C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/rebuild_cache.dir

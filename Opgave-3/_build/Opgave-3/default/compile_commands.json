@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Embedded/Opgave-3/_build/Opgave-3/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/madss/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Opgave_3_default_default_XC8_compile.dir\\C_\\Embedded\\Opgave-3\\Source\\StateMachine\\StateMachine.c.o -c C:\\Embedded\\Opgave-3\\Source\\StateMachine\\StateMachine.c",
+  "file": "C:/Embedded/Opgave-3/Source/StateMachine/StateMachine.c",
+  "output": "C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/Opgave_3_default_default_XC8_compile.dir/C_/Embedded/Opgave-3/Source/StateMachine/StateMachine.c.o"
+},
+{
+  "directory": "C:/Embedded/Opgave-3/_build/Opgave-3/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/madss/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Opgave_3_default_default_XC8_compile.dir\\C_\\Embedded\\Opgave-3\\Source\\UART\\Uart.c.o -c C:\\Embedded\\Opgave-3\\Source\\UART\\Uart.c",
+  "file": "C:/Embedded/Opgave-3/Source/UART/Uart.c",
+  "output": "C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/Opgave_3_default_default_XC8_compile.dir/C_/Embedded/Opgave-3/Source/UART/Uart.c.o"
+},
+{
+  "directory": "C:/Embedded/Opgave-3/_build/Opgave-3/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=C:/Users/madss/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Opgave_3_default_default_XC8_compile.dir\\C_\\Embedded\\Opgave-3\\main.c.o -c C:\\Embedded\\Opgave-3\\main.c",
+  "file": "C:/Embedded/Opgave-3/main.c",
+  "output": "C:/Embedded/Opgave-3/_build/Opgave-3/default/CMakeFiles/Opgave_3_default_default_XC8_compile.dir/C_/Embedded/Opgave-3/main.c.o"
+}
+]

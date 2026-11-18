@@ -1,0 +1,6 @@
+#ifndef PROJECTDEFINES_H_
+#define PROJECTDEFINES_H_
+
+#define F_CPU 16000000UL
+
+#endif
